@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">mz</string>
+    <string name="btn_main_show_info_done">Done</string>
+    <string name="btn_main_show_info_edit_p">Edit Your Information...</string>
+    <string name="btn_main_web">view web...</string>
+    <string name="et_main_edit_name">first name</string>
+    <string name="et_main_edit_lname">last name</string>
+    <string name="tv_main_show_skills">skills</string>
+    <string name="cb_main_computer_engineering">computer engineer</string>
+    <string name="cb_main_developer">android developer</string>
+    <string name="cb_main_web_designer">web designer</string>
+    <string name="tv_main_gender">gender</string>
+    <string name="rb_main_male">male</string>
+    <string name="rb_main_female">famele</string>
+    <string name="btn_main_save_info">save informaison</string>
+
+</resources>
