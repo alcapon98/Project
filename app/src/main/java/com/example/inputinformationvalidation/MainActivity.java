@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         btn_save=findViewById(R.id.bt_save_info);
 
 
+        
     }
 
 
